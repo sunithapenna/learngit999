@@ -1,0 +1,16 @@
+
+
+Two modes in vi insert mode can be entered using I
+other is escape or command mode can be entered using escape:
+
+:w will hellp u in writing the file
+
+set line numbers using set nu - interesting can be hard coded in the .vimrc file too
+
+we can write the contents of this file into another file with command :w file name
+
+searching:
+ :/ is used for forward search
+:? is used for backward search
+from command prompt vi +/ is also used to search
+ 
